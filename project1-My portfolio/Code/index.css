@@ -108,6 +108,7 @@ li a:hover {
 }
 
 
+
 /* About me page content */
 
 #about {
@@ -132,15 +133,6 @@ li a:hover {
 #about section p {
     color: #fff;
 }
-
-
-/* 
-@media(max-width:500px) {
-    #about {
-        display: grid;
-        grid-template-rows: repeat(1, fr);
-    }
-} */
 
 
 /* My skills  page*/
@@ -177,7 +169,7 @@ li a:hover {
 }
 
 .html {
-    width: 90%;
+    width: 80%;
     background-color: #4CAF50;
 }
 
@@ -308,13 +300,3 @@ footer img {
         grid-template-columns: repeat(1, 1fr);
     }
 }
-
-
-/* 
-Tasks 
-
-Fix the miro portfolio wire frame 
-
-github 
-
-Make sure of simplo.com criteria */
